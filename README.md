@@ -12,4 +12,4 @@ If you have any questions for me please leave a message 😊
 
 **Thank U** 😎
 
-[MyBlog](https://yejinii.tistory.com/)
+[Visit My Blog](https://yejinii.tistory.com/)
