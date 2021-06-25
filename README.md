@@ -10,4 +10,6 @@ Soongsil University, who wants to become a developer develops every day 👩‍�
 
 If you have any questions for me please leave a message 😊
 
-### Thank U 😎
+**Thank U** 😎
+
+[MyBlog](https://yejinii.tistory.com/)
