@@ -16,6 +16,7 @@ If you have any questions for me please leave a message 😊
 
 # 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YeJinii&show_icons=true&theme=dracula)](https://github.com/{username}/github-readme-stats) <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yeagin">
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YeJinii&show_icons=true&theme=dracula)](https://github.com/YeJinii/github-readme-stats) 
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeagin)](https://solved.ac/yeagin)
 
 
