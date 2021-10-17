@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=B3688D&height=80&section=header&text=YeJin's%20Development%20Story&fontColor=FFFFFF&fontSize=40&animation=fadeIn)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYeJinii&count_bg=%239E9E9E&title_bg=%23454545&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ###  Hi there 🙋‍♀️ 
 
 <br/> 
@@ -49,10 +51,4 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></a>
   
 #
-<br/>
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2377ABCD&title_bg=%23666666&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=true)](https://hits.seeyoufarm.com)
-
-<br/>
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YeJinii&show_icons=true&theme=dracula)](https://github.com/YeJinii/github-readme-stats)
