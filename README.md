@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Soft&color=0:B3688D,50:CFA2B8,100:B3688D&height=80&section=header&text=YeJin's%20Development%20Story&fontColor=000000&fontSize=40&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Soft&color=B3688D&height=80&section=header&text=YeJin's%20Development%20Story&fontColor=FFFFFF&fontSize=40&animation=fadeIn)
 
 ###  Hi there 🙋‍♀️ 
 
