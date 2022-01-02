@@ -21,9 +21,11 @@
   <br/> 
   
   * My Career
-    - 숭실대학교 IT대학 컴퓨터학부 소프트웨어 공모전(2021) 학장상 수상🏆  
+    - 숭실대학교 IT대학 컴퓨터학부 소프트웨어 공모전(2021) 학장상 수상 🏆  
       👉🏻 [SIGNOME 바로가기](https://github.com/SIGHOME)
-    - 리그 오브 레전드 / 전략적 팀 전투(TFT) 시즌 5.5 Diamond 4💜   
+    - 2021년도 정보처리기사 취득 💻
+    - MOS Microsoft Excel Expert (Office 2016) 취득 📝
+    - 리그 오브 레전드 / 전략적 팀 전투(TFT) 시즌 5.5 Diamond 4 💜   
       👉🏻 [전적 검색 바로가기](https://lolchess.gg/profile/kr/%EB%B0%95%EC%95%A0%EB%94%98)
       
   <br/>
