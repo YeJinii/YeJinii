@@ -14,7 +14,7 @@
   <br/> 
   
   * About Me
-    - 👩🏻‍🎓 Soongsil univ. **Computer Science & Engineering** (Expected to graduate in 2022.02)
+    - 👩🏻‍🎓 Soongsil univ. **Computer Science & Engineering**
     - 🙆🏻‍♀️ **I LIKE** to Eat delicious food😋, Listen to my favorite song🎧, or Chat with my friends🙌🏻.
     - 👍🏻 **I'M GOOD AT** Drawing🎨, Singing🎤 and Playing Instruments🎹🎸. 
 
