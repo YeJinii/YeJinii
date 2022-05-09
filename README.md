@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=Soft&color=B3688D&height=80&section=header&text=YeJin's%20Development%20Story&fontColor=FFFFFF&fontSize=40&animation=fadeIn)
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYeJinii&count_bg=%239E9E9E&title_bg=%23454545&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ###  Hi there 🙋‍♀️ 
