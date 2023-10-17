@@ -2,10 +2,10 @@
 
 안녕하세요, 신입 웹 퍼블리셔 <b>박예진 입니다. </br>
 
-### <a href="#">👋🏻 My Portfolio</a>
+### 👋🏻 My Portfolio
 - My Website <a href="http://yejindev.dothome.co.kr/yejin">🔗</a>
 - Notion Link <a href="https://www.notion.so/YeJin-s-Portfolio-95618954defa411abdec82d8972cfdea">🔗</a>
 
-### <a href="#">📔 Notion Link</a>
+### 📔 Notion Link
 - YeJin's FootSteps <a href="https://www.notion.so/YeJin-s-FootSteps-45dc17c0a4fa41c98deaf569214951d1">🔗<a>
 - To Become a Publisher <a href="https://www.notion.so/To-Become-a-Publisher-9ce21d2225b645919082be58bcb82fb1">🔗<a>
