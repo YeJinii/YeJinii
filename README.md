@@ -2,7 +2,7 @@
 
 "헤맨 만큼 내 땅이 된다."
 
-안녕하세요, 소통하는 UI/UX 디자이너 & 퍼블리셔 <b>박예진 입니다. </br>
+안녕하세요, 소통과 성장을 추구하는 <b>박예진 입니다. </br>
 
 ### 👋🏻 My Portfolio
 - My Website <a href="http://yejindev.dothome.co.kr/yejin">🔗</a>
