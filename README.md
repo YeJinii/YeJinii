@@ -5,7 +5,7 @@
 안녕하세요, 소통과 성장을 추구하는 <b>박예진 입니다. </br>
 
 ### 👋🏻 My Portfolio
-- My Website <a href="http://yejindev.dothome.co.kr/yejin">🔗</a>
+- My Website <a href="http://yejindin.mycafe24.com/portfolio">🔗</a>
 - Notion Link <a href="https://www.notion.so/YeJin-s-Portfolio-95618954defa411abdec82d8972cfdea">🔗</a>
 
 ### 📔 Notion Link
